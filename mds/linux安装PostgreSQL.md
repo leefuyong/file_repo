@@ -152,7 +152,7 @@ reject是拒绝认证。
 /home/vagrant/postgresql/bin/pg_ctl start -l /home/vagrant/postgresql/log/pg_server.log
 ```
 
-![输入图片说明](/imgs/2022-11-13/xuDxrBEd9PWDRrVU.png)
+![启动命令](/imgs/2022-11-13/xuDxrBEd9PWDRrVU.png)
 
 
 
@@ -185,5 +185,5 @@ https://blog.csdn.net/GISuuser/article/details/124834504
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgyMDg0NjYsMTQ2NTI2Njg1Nl19
+eyJoaXN0b3J5IjpbLTg2MjkwNDMyNywxNDY1MjY2ODU2XX0=
 -->
