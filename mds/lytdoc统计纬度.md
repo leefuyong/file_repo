@@ -29,15 +29,15 @@
 
 ## 用户被动行为积分
 
-用户每发表一次评论，评论主体所述用户 加2分
+用户每发表一次评论，评论主体所属用户 加2分
 
-用户每点赞 评论主体所述用户一次加2分
+用户每点赞， 点赞主体所属用户一次加2分
 
-用户每收藏评论主体所述用户 一次加2分
+用户每收藏，收藏主体所属用户 一次加2分
 
-用户每关注一个用户 评论主体所述用户加2分
+用户每关注一个用户 ，被关注用户加2分
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzU0MTU4MCwtMTQzMjM2Mjk3Nyw5MD
-czODYyMDMsMTMzODUwNzYzN119
+eyJoaXN0b3J5IjpbLTE1MjM2MTY5MzAsLTE0MzIzNjI5NzcsOT
+A3Mzg2MjAzLDEzMzg1MDc2MzddfQ==
 -->
