@@ -14,8 +14,11 @@
 用户论坛每发布一条帖子加５分
 
 
-## 用户主动xing'wei
+## 用户主动行为积分
+
+用户每登录一次加2分
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NTc0MTM3XX0=
+eyJoaXN0b3J5IjpbLTIwMzM4Njc0OV19
 -->
