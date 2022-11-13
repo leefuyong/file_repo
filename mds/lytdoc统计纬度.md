@@ -1,3 +1,15 @@
+
+# 用户积分
+user_score
+
+```
+```
+user_score_detail
+
+```
+
+```
+
 ## 用户创作内容积分
 
 用户每发布一篇文档加２０分（业务表）
@@ -38,6 +50,6 @@
 用户每关注一个用户 ，被关注用户加2分（业务表）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE2ODY1OSwtMTQzMjM2Mjk3Nyw5MD
-czODYyMDMsMTMzODUwNzYzN119
+eyJoaXN0b3J5IjpbOTMwODQ5NTA2LDEyMDAxNjg2NTksLTE0Mz
+IzNjI5NzcsOTA3Mzg2MjAzLDEzMzg1MDc2MzddfQ==
 -->
