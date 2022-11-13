@@ -24,6 +24,10 @@
 
 用户每收藏一次加2分
 
+用户每关注一个用户加2分
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3Mzg2MjAzLDEzMzg1MDc2MzddfQ==
+eyJoaXN0b3J5IjpbLTE0MzIzNjI5NzcsOTA3Mzg2MjAzLDEzMz
+g1MDc2MzddfQ==
 -->
