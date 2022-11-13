@@ -7,7 +7,11 @@
 用户每发布一篇博文加１０分
 
 
+用户每发布一篇问题加５分
 
+用户每发布一篇问题答案加５分
+
+用户每发布一篇博文加１０分
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MTUxODk4XX0=
+eyJoaXN0b3J5IjpbLTE4ODAxNzU4NzVdfQ==
 -->
