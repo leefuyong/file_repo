@@ -1,8 +1,13 @@
 ##　用户创作内容积分
 
-用户没发布一篇w
+用户每发布一篇文档加２０分
+
+用户每发布一篇课程加３０分
+
+用户每发布一篇博文加１０分
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgxODQ5MDNdfQ==
+eyJoaXN0b3J5IjpbODQ5MTUxODk4XX0=
 -->
