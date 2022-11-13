@@ -22,8 +22,8 @@
 
 用户每点赞一次加2分
 
-
+用户每收藏一次加2分
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODUwNzYzN119
+eyJoaXN0b3J5IjpbOTA3Mzg2MjAzLDEzMzg1MDc2MzddfQ==
 -->
