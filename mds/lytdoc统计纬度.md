@@ -18,7 +18,13 @@
 
 用户每登录一次加2分
 
+用户每发表一次评论加2分
+
+
+用户每点赞一次加2分
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM4Njc0OV19
+eyJoaXN0b3J5IjpbMTMxNjU4NTgyN119
 -->
