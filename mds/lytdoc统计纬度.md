@@ -1,4 +1,4 @@
-##　用户创作内容积分
+## 用户创作内容积分
 
 用户每发布一篇文档加２０分
 
@@ -11,9 +11,11 @@
 
 用户每发布一篇问题答案加５分
 
-论坛发布一条帖子加５分
+用户论坛每发布一条帖子加５分
 
+
+## 用户主动xing'wei
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTMxNjY2OV19
+eyJoaXN0b3J5IjpbNjg4NTc0MTM3XX0=
 -->
