@@ -27,7 +27,17 @@
 用户每关注一个用户加2分
 
 
+## 用户被动行为积分
+
+用户每发表一次评论，评论主体所述用户 加2分
+
+用户每点赞 评论主体所述用户一次加2分
+
+用户每收藏评论主体所述用户 一次加2分
+
+用户每关注一个用户 评论主体所述用户加2分
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIzNjI5NzcsOTA3Mzg2MjAzLDEzMz
-g1MDc2MzddfQ==
+eyJoaXN0b3J5IjpbMTM5NzU0MTU4MCwtMTQzMjM2Mjk3Nyw5MD
+czODYyMDMsMTMzODUwNzYzN119
 -->
