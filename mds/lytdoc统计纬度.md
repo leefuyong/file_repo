@@ -11,7 +11,9 @@
 
 用户每发布一篇问题答案加５分
 
-用户每发布一篇博文加１０分
+论坛发布一条帖子加５分
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAxNzU4NzVdfQ==
+eyJoaXN0b3J5IjpbLTg2MTMxNjY2OV19
 -->
