@@ -3,11 +3,22 @@
 user_score
 
 ```
+create table user_score(
+
+user_name varchar(5) primary key not null,
+score bigint default '0'
+
+);
 ```
 user_score_detail
 
 ```
+create table user_score_detail(
 
+user_name varchar(5) primary key not null,
+score bigint default '0'
+
+);
 ```
 
 ## 用户创作内容积分
@@ -50,6 +61,6 @@ user_score_detail
 用户每关注一个用户 ，被关注用户加2分（业务表）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwODQ5NTA2LDEyMDAxNjg2NTksLTE0Mz
-IzNjI5NzcsOTA3Mzg2MjAzLDEzMzg1MDc2MzddfQ==
+eyJoaXN0b3J5IjpbLTIwMTUxNzIxMTIsMTIwMDE2ODY1OSwtMT
+QzMjM2Mjk3Nyw5MDczODYyMDMsMTMzODUwNzYzN119
 -->
